@@ -1,0 +1,1 @@
+{"version":3,"file":"blog-88ad412c.js","sources":["../../../../pages/blog.vue"],"sourcesContent":["<template>\n    <div>\n        <h1>blog</h1>\n        <p>texto de blog</p>\n        <p><NuxtLink to=\"/\">Volver</NuxtLink></p>\n    </div>\n</template>"],"names":["_ssrRenderAttrs"],"mappings":";;;;;;;;;;;;;;;;;;AAIqB,QAAA,OAAAA,eAAA,MAAA,wCAAA;;;;;;;;;;;;;;;;;;;;;;"}

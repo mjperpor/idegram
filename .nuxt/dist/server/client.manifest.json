@@ -1,8 +1,8 @@
 {
-  "_nuxt-link.34594a6d.js": {
+  "_nuxt-link.59f62213.js": {
     "resourceType": "script",
     "module": true,
-    "file": "nuxt-link.34594a6d.js",
+    "file": "nuxt-link.59f62213.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -16,9 +16,9 @@
     "resourceType": "script",
     "module": true,
     "css": [],
-    "file": "error-404.c037ead4.js",
+    "file": "error-404.c68eba45.js",
     "imports": [
-      "_nuxt-link.34594a6d.js",
+      "_nuxt-link.59f62213.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -37,7 +37,7 @@
     "resourceType": "script",
     "module": true,
     "css": [],
-    "file": "error-500.061a83d7.js",
+    "file": "error-500.6bd75e5d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -54,16 +54,16 @@
     "dynamicImports": [
       "virtual:nuxt:/Users/mj/Documents/FRONTEND/idegram/.nuxt/error-component.mjs"
     ],
-    "file": "entry.0d0b024d.js",
+    "file": "entry.819cf345.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
   "pages/blog.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blog.26724999.js",
+    "file": "blog.361af713.js",
     "imports": [
-      "_nuxt-link.34594a6d.js",
+      "_nuxt-link.59f62213.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -72,9 +72,9 @@
   "pages/index.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "index.e1bfd9e9.js",
+    "file": "index.3f86cd0f.js",
     "imports": [
-      "_nuxt-link.34594a6d.js",
+      "_nuxt-link.59f62213.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -83,7 +83,7 @@
   "pages/single/[id].vue": {
     "resourceType": "script",
     "module": true,
-    "file": "_id_.37ced981.js",
+    "file": "_id_.cb2d2ab9.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -97,7 +97,7 @@
       "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
       "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
-    "file": "error-component.9470643f.js",
+    "file": "error-component.3cac1f9a.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],

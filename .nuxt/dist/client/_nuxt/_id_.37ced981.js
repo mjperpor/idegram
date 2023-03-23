@@ -1,1 +1,0 @@
-import{y as a,r as s,b as o,e as r,t as n,u as c,o as u}from"./entry.0d0b024d.js";const i={__name:"[id]",setup(l){const e=a(),t=s(e.params.id);return(m,p)=>(u(),o("div",null,[r("h1",null,"Estoy en el artículo número "+n(c(t)),1)]))}};export{i as default};
